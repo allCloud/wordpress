@@ -1,4 +1,4 @@
-FROM ubuntu:quantal
+FROM ubuntu:trusty
 MAINTAINER Lucas Carlson <lucas@rufy.com>
 
 RUN apt-get update -q
